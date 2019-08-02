@@ -1,0 +1,11 @@
+Min development crossentropy:		1.3823139667510986
+Corresponding development f1-score:	0.19667774086378736
+Corresponding development accuracy:	0.48484848484848486
+
+Corresponding test f1-score:		0.13636363636363635
+Corresponding test accuracy:	0.3333333333333333
+Corresponding test crossentropy:		1.446379542350769
+
+Corresponding training crossentropy:		1.1938153505325317
+
+Epoch number:		8

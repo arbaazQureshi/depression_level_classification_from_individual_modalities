@@ -1,0 +1,11 @@
+Max test f-score:		0.16827094474153298
+Corresponding test accuracy:		0.35555555555555557
+Corresponding test crossentropy:	3.352917432785034
+
+Corresponding development f-score:		0.16827094474153298
+Corresponding development accuracy:		0.36363636363636365
+Corresponding development crossentropy:		2.7065188884735107
+
+Corresponding training crossentropy:		0.015155809000134468
+
+Epoch number:		229
